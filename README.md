@@ -20,5 +20,3 @@ Backend REST API developed using Spring Boot.
 - Booking CRUD
 - Payment CRUD
 - Dashboard API
-
-## Run
